@@ -6,8 +6,12 @@
 
 public class Exercicio1 {
     public static void main(String[] args) {
-        // Escreva seu código aqui ⬇️
-
-
+// Escreva seu código aqui ⬇️
+        char nome = 'g';
+        int idade = 15;
+        boolean tomoCafe = true;
+        double altura = 1.85;
+        
+        
     }
 }
